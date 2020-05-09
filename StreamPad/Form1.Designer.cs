@@ -395,9 +395,28 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Button1",
+            "Button2",
+            "Button3",
+            "Button4",
+            "Button5",
+            "Button6",
+            "Button7",
+            "Button8",
+            "Button9",
+            "Button10",
+            "Button11",
+            "Button12",
+            "Button13",
+            "Button14",
+            "Button15",
+            "Button16",
+            "Button17",
+            "Button18"});
             this.comboBox1.Location = new System.Drawing.Point(52, 19);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.Size = new System.Drawing.Size(266, 21);
             this.comboBox1.TabIndex = 1;
             // 
             // label6
